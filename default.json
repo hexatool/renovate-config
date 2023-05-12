@@ -9,6 +9,7 @@
     "dependencies"
   ],
   "assigneesFromCodeOwners": true,
+  "timezone": "Europe/Madrid",
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
